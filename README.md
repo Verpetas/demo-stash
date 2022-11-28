@@ -37,6 +37,9 @@ Flower:
 
 
 "eko-sim" - the second project:
+
+![image](https://user-images.githubusercontent.com/73705079/204373501-e59bdf30-0741-4fb1-b40d-3da5851b9381.png)
+
 * very much work in progress but shows potential
 * includes my attempt (could not find online) at implementing A* pathfinding algorithm on a spherical terrain
 * here i took basic implementation of A* on a grid and adapted it to work on a spherical bumpy terrain
