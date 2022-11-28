@@ -47,8 +47,9 @@ Flower:
 * mesh vertices used as nodes for PF
 * logic for transitioning between different plains is in place (except when seeker and target are on opposite sides of the planet)
 * seeker will go around the terrain that's too high (when vertex is too far up from normalized surface)
+* seeker follows the path and gets to the target
 
 issues:
-* no real solution for movement implemented - move target in ecene view
-* path finding breaks when target gets below ground
+* no real solution for changing target's postion - move target in scene view
+* path finding breaks when target gets below planet surface
 * other instabilities
